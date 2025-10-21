@@ -1,0 +1,12 @@
+body {
+  background-color: crimson;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 10px;
+  font-weight: 100;
+  font-family: sans-serif;
+  margin-top: 350px;
+}
